@@ -1,4 +1,4 @@
-## Line by Line Explanation
+## Explanation
 
 • This project is written in Python to generate a QR code.  
 → Ye project Python language me banaya gaya hai QR code create karne ke liye.
